@@ -1,0 +1,6 @@
+﻿Build started at 11:38 PM...
+1>------ Build started: Project: ConsoleApplication lab 4, Configuration: Debug x64 ------
+1>  ConsoleApplication lab 4.cpp
+1>  ConsoleApplication lab 4.vcxproj -> C:\Users\dayan\source\repos\ConsoleApplication lab 4\x64\Debug\ConsoleApplication lab 4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:38 PM and took 02.708 seconds ==========
